@@ -8,5 +8,6 @@ Source Code dari Artikel Pembelajaran PHP OOP Sesi [**Inheritance / Pewarisan Da
 * [Pengenalan Constructor Dan Desctructor](http://www.nurulimam.com/2014/10/mengenal-constructors-destructors.html)
 * [Aksesbilitas Property & Method Dengan Encapsulation](http://www.nurulimam.com/2014/10/aksesbilitas-property-dengan-encapsulation.html)
 * [Inheritance / Pewarisan Dalam OOP](http://www.nurulimam.com/2014/10/inheritance-pewarisan-dalam-oop.html)
+* [Membuat Operasi Bilangan Sederhana Dengan PHP OOP](http://www.nurulimam.com/2014/10/latihan-membuat-operasi-bilangan-dengan-oop.html)
 
 Jika ingin menawarkan project, atau ingin belajar website, silahkan hubungi saya di halaman [Hubungi Kami](http://www.nurulimam.com/hubungi).
